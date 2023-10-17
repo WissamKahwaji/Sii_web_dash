@@ -1,0 +1,12 @@
+.main-dashboard-link {
+  animation: main-dashboard-link-animation 1s forwards;
+}
+
+@keyframes main-dashboard-link-animation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
