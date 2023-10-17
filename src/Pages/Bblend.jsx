@@ -10,7 +10,7 @@ const Bblend = () => {
         titleSecond="Sii Dashboard"
         titleThird="Client Dashboard"
         toFirst="https://siidevelopment.com/"
-        toSecond=""
+        toSecond="https://bblendsiidash.siidevelopment.com/"
         toThird="https://clientdash.siidevelopment.com/"
       />
     </PageContainer>
