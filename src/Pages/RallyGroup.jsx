@@ -11,7 +11,7 @@ const RallyGroup = () => {
         s
         titleThird="Client Dashboard"
         toFirst="https://rallygroup.siidevelopment.com/"
-        toSecond=""
+        toSecond="https://rallysii.siidevelopment.com/"
         toThird="https://www.rallydash.siidevelopment.com/"
       />
     </PageContainer>
