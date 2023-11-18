@@ -6,7 +6,7 @@ const IdentifyPage = () => {
   const [passKey, setPassKey] = useState();
   const [isAdmin, setIsAdmin] = useState(false);
   const isAdminChecker = () => {
-    if (passKey === "siiMediaAdmin") {
+    if (passKey === "siiMediaAdmin@123") {
       setIsAdmin(true);
     } else {
       setIsAdmin(false);
